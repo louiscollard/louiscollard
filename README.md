@@ -1,4 +1,4 @@
-<img src="./assets/banner.jpg" alt="Louis Collard — Front-end Developer" width="100%" />
+<img src="./louis_collard_cover.jpg" alt="Louis Collard — Front-end Developer" width="100%" />
 
 <br />
 
