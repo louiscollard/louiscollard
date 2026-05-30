@@ -70,8 +70,3 @@ React-coded portfolio with Framer Motion animations — showcasing projects and 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/collard-louis)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](#)
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=louiscollard&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=6E76AE" alt="GitHub Stats" />
-</p>
