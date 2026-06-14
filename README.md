@@ -44,25 +44,10 @@
 
 ## 📦 Projects
 
-### 🍔 Crazee Burger
-Online burger ordering app — interactive React interface with cart management, dynamic menu and polished UX.
-**Stack:** React · Vite · JavaScript · CSS Modules
-[🔗 Repo](https://github.com/louiscollard/crazee-burger) · [🌐 Live demo](#)
-
----
-
-### 🎨 MoodBoard AI *(in progress)*
-Full-stack SaaS tool — generates color palettes, font pairings and visual moods from a simple text prompt. Includes auth, saved boards and public sharing.
-**Stack:** Next.js · TypeScript · Node.js · PostgreSQL · Anthropic API
-[🔗 Repo](#) · [🌐 Live demo](#)
-
----
-
-### 🌐 Personal Portfolio *(in progress)*
-React-coded portfolio with Framer Motion animations — showcasing projects and skills.
-**Stack:** React · Tailwind · Framer Motion · Vercel
-[🌐 Coming soon](#)
-
+### 👟 KicksFlow
+Single-page sneaker storefront — per-user catalogs, an admin CRUD mode and a cart, with cloud persistence powered by Firebase.
+**Stack:** React 19 · TypeScript · Tailwind CSS · Vite · Firebase
+[🔗 Repo](https://github.com/louiscollard/KicksFlow) · [🌐 Live demo](https://kicksflow-louiscollard.vercel.app/)
 ---
 
 ## 📬 Get in touch
