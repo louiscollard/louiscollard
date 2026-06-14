@@ -46,8 +46,11 @@
 
 ### 👟 KicksFlow
 Single-page sneaker storefront — per-user catalogs, an admin CRUD mode and a cart, with cloud persistence powered by Firebase.
-**Stack:** React 19 · TypeScript · Tailwind CSS · Vite · Firebase
+
+**Stack** ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
 [🔗 Repo](https://github.com/louiscollard/KicksFlow) · [🌐 Live demo](https://kicksflow-louiscollard.vercel.app/)
+
 ---
 
 ## 📬 Get in touch
